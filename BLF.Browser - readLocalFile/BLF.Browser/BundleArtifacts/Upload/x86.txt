@@ -1,0 +1,2 @@
+MainPackage=E:\Projects\BLF.Browser - readLocalFile\BLF.Browser\bin\x86\Release\Upload\BLF.Browser_2.2.16.0_x86.appx
+SymbolPackage=E:\Projects\BLF.Browser - readLocalFile\BLF.Browser\bin\x86\Release\Upload\BLF.Browser_2.2.16.0\BLF.Browser_2.2.16.0_x86.appxsym

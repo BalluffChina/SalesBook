@@ -1,0 +1,6 @@
+MainPackage=E:\Projects\BLF.Browser - readLocalFile\BLF.Browser\bin\x64\Release\Upload\BLF.Browser_2.2.16.0_x64.appx
+SymbolPackage=E:\Projects\BLF.Browser - readLocalFile\BLF.Browser\bin\x64\Release\Upload\BLF.Browser_2.2.16.0\BLF.Browser_2.2.16.0_x64.appxsym
+ResourcePack=E:\Projects\BLF.Browser - readLocalFile\BLF.Browser\bin\x64\Release\BLF.Browser_2.2.16.0_scale-100.appx
+ResourcePack=E:\Projects\BLF.Browser - readLocalFile\BLF.Browser\bin\x64\Release\BLF.Browser_2.2.16.0_scale-125.appx
+ResourcePack=E:\Projects\BLF.Browser - readLocalFile\BLF.Browser\bin\x64\Release\BLF.Browser_2.2.16.0_scale-150.appx
+ResourcePack=E:\Projects\BLF.Browser - readLocalFile\BLF.Browser\bin\x64\Release\BLF.Browser_2.2.16.0_scale-400.appx
